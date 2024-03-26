@@ -51,7 +51,7 @@ python preprocessing.py
 After running the preprocessing script, you can perform the analysis by running the `analyze_trending_repos.py` script. This script reads the `trending_repositories.csv` file, performs statistical analysis, and prints the insights.
 
 ```
-python analysis.py
+python analyze_trending_repos.py
 ```
 
 ## License
